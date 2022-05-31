@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "username": "manpreet",
+            "password": "man@12",
+            "Profile": {
+                "description": "maggic",
+                "Dob": "7-2-2002",
+                "Gender": "f",
+                "Hobbies": "movie"
+            }
+        }
+    ]
+}
